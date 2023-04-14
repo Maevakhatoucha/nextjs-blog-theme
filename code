@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <title>Boutique d'électronique</title>
+</head>
+<body>
+ <header>
+  <h1>Bienvenue dans notre boutique d'électronique en ligne</h1>
+  <nav>
+   <ul>
+    <li><a href="#montres-connectees">Montres connectées</a></li>
+    <li><a href="#ecouteurs-sans-fil">Écouteurs sans fil</a></li>
+    <li><a href="#chargeurs">Chargeurs</a></li>
+    <li><a href="#chargeurs-sans-fil">Chargeurs sans fil</a></li>
+   </ul>
+  </nav>
+ </header>
+ 
+ <main>
+  <section id="montres-connectees">
+   <h2>Montres connectées</h2>
+   <p>Nous proposons une large sélection de montres connectées des marques les plus populaires, y compris Apple, Samsung, et Fitbit.</p>
+   <ul>
+    <li>Apple Watch Series 6 - $399</li>
+    <li>Samsung Galaxy Watch Active 2 - $279</li>
+    <li>Fitbit Versa 3 - $229</li>
+   </ul>
+  </section>
+  
+  <section id="ecouteurs-sans-fil">
+   <h2>Écouteurs sans fil</h2>
+   <p>Nous avons les derniers écouteurs sans fil pour vous permettre de profiter de votre musique et de vos podcasts préférés sans fil.</p>
+   <ul>
+    <li>Apple AirPods Pro - $249</li>
+    <li>Samsung Galaxy Buds Pro - $199</li>
+    <li>Sony WF-1000XM4 - $279</li>
+   </ul>
+  </section>
+  
+  <section id="chargeurs">
+   <h2>Chargeurs</h2>
+   <p>Nous avons une variété de chargeurs pour tous vos besoins de charge, y compris les chargeurs muraux, les chargeurs de voiture, et les chargeurs portables.</p>
+   <ul>
+    <li>Anker PowerPort Atom III Slim - $39</li>
+    <li>Belkin Boost Charge 18 W - $29</li>
+    <li>RAVPower Portable Charger - $39</li>
+   </ul>
+  </section>
+  
+  <section id="chargeurs-sans-fil">
+   <h2>Chargeurs sans fil</h2>
+   <p>Nous proposons une gamme de chargeurs sans fil pour vous permettre de charger vos appareils sans fil avec facilité.</p>
+   <ul>
+    <li>Apple MagSafe Charger - $39</li>
+    <li>Samsung Wireless Charger Pad - $29</li>
+    <li>Anker PowerWave Pad - $19</li>
+   </ul>
+  </section>
+ </main>
+ 
+ <footer>
+  <p>Tous les prix sont en dollars américains et sont sujets à changement sans préavis.</p>
+ </footer>
+</body>
+</html>
